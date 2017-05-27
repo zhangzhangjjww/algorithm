@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1446667744 source:f:\张建威\algorithm\tarjan\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1491100017 source:f:\张建威\algorithm\tarjan\22-2.cpp
+	<iostream>
+	<limits>
+	<stack>
+	<fstream>
+	<cstdlib>
+

@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1446667744 source:f:\张建威\algorithm\17-2\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1488594359 source:f:\张建威\algorithm\17-2\table.cpp
+	<iostream>
+	"table.h"
+
+1488594359 f:\张建威\algorithm\17-2\table.h
+	"function.cpp"
+
+1488596388 source:f:\张建威\algorithm\17-2\test.cpp
+	<iostream>
+	"table.h"
+	"table.cpp"
+
+1488596592 f:\张建威\algorithm\17-2\table.cpp
+	<iostream>
+	"table.h"
+
+1488596341 f:\张建威\algorithm\17-2\function.cpp
+	<cstdlib>
+
+1488596341 source:f:\张建威\algorithm\17-2\function.cpp
+	<cstdlib>
+
+1488540787 source:f:\张建威\algorithm\17-2\normal.cpp
+

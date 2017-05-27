@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1478257069 source:f:\张建威\algorithm\heap_sort\main.cpp
+	<iostream>
+	"heap_sort.h"
+
+1478251334 f:\张建威\algorithm\heap_sort\heap_sort.h
+
+1478257009 source:f:\张建威\algorithm\heap_sort\heap_sort.cpp
+	"heap_sort.h"
+	<iostream>
+

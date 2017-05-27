@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1478266666 source:f:\张建威\algorithm\max_priority_queue\heap_sort.cpp
+	"heap_sort.h"
+	<iostream>
+
+1478265408 f:\张建威\algorithm\max_priority_queue\heap_sort.h
+	"max_pri_queue.h"
+
+1478487879 f:\张建威\algorithm\max_priority_queue\max_pri_queue.h
+	<limits>
+	<iostream>
+
+1478488363 source:f:\张建威\algorithm\max_priority_queue\main.cpp
+	"heap_sort.h"
+	"max_pri_queue.h"
+	<iostream>
+
+1478487617 source:f:\张建威\algorithm\max_priority_queue\max_pri_queue.cpp
+	"max_pri_queue.h"
+	"heap_sort.h"
+	<stdexcept>
+	<iostream>
+

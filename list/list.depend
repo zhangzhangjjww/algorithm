@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1446667744 source:f:\张建威\algorithm\list\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1480762465 source:f:\张建威\algorithm\list\list.cpp
+	<iostream>
+	"List.h"
+
+1480762505 f:\张建威\algorithm\list\list.h
+	<iostream>
+

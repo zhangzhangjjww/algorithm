@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1446667744 source:f:\张建威\algorithm\rb_tree\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1484367542 source:f:\张建威\algorithm\rb_tree\rb_tree.cpp
+	<iostream>
+	"rb_tree.h"
+
+1484367542 f:\张建威\algorithm\rb_tree\rb_tree.h
+
+1484552486 source:f:\张建威\algorithm\rb_tree\test.cpp
+	"rb_tree.h"
+	"rb_tree.cpp"
+
+1484367542 f:\张建威\algorithm\rb_tree\rb_tree.cpp
+	<iostream>
+	"rb_tree.h"
+

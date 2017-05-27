@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1446667744 source:f:\张建威\algorithm\euler_tour\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1491383913 source:f:\张建威\algorithm\euler_tour\euler_tour.cpp
+	<iostream>
+	<cstdlib>
+	<limits>
+	<fstream>
+	<list>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1446667744 source:f:\张建威\algorithm\10.2-7\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1480938366 source:f:\张建威\algorithm\10.2-7\10.2-7.cpp
+	"singlelist.h"
+
+1480938352 f:\张建威\algorithm\10.2-7\singlelist.h
+	<iostream>
+

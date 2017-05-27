@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1478525653 source:f:\张建威\algorithm\young_matrix\main.cpp
+	"Young_matrix.h"
+	<iostream>
+
+1478526118 f:\张建威\algorithm\young_matrix\young_matrix.h
+
+1478525546 source:f:\张建威\algorithm\young_matrix\young_matrix.cpp
+	"Young_matrix.h"
+	<limits>
+	<iostream>
+	<stdexcept>
+

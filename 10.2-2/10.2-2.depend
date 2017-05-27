@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1446667744 source:f:\张建威\algorithm\10.2-2\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1480767137 source:f:\张建威\algorithm\10.2-2\10.2-2.cpp
+	<iostream>
+	"stack2.h"
+
+1480767208 f:\张建威\algorithm\10.2-2\stack2.h
+	<iostream>
+

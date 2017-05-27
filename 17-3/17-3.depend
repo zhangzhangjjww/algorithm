@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1446667744 source:f:\张建威\algorithm\17-3\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1488714676 source:f:\张建威\algorithm\17-3\binary_tree.cpp
+	<iostream>
+	"binary_tree.h"
+	<queue>
+
+1488703979 f:\张建威\algorithm\17-3\binary_tree.h
+
+1488715082 source:f:\张建威\algorithm\17-3\test.cpp
+	<iostream>
+	"binary_tree.h"
+	"binary_tree.cpp"
+
+1488714676 f:\张建威\algorithm\17-3\binary_tree.cpp
+	<iostream>
+	"binary_tree.h"
+	<queue>
+

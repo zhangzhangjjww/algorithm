@@ -1,0 +1,91 @@
+﻿生成启动时间为 2017/2/20 16:37:59。
+     1>项目“F:\张建威\algorithm\B_Tree\B_Tree\B_Tree.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\B_Tree.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         d:\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt B_Tree.cpp
+         B_Tree.cpp
+     1>f:\张建威\algorithm\b_tree\b_tree\b_tree.h(2): error C2370: “TT”: 重定义；不同的存储类
+                 f:\张建威\algorithm\b_tree\b_tree\b_tree.h(2) : 参见“TT”的声明
+     1>f:\张建威\algorithm\b_tree\b_tree\b_tree.h(11): error C2953: “Node”: 类模板已经定义
+                 f:\张建威\algorithm\b_tree\b_tree\b_tree.h(5) : 参见“Node”的声明
+     1>f:\张建威\algorithm\b_tree\b_tree\b_tree.h(40): error C2953: “B_Tree”: 类模板已经定义
+                 f:\张建威\algorithm\b_tree\b_tree\b_tree.h(14) : 参见“B_Tree”的声明
+     1>f:\张建威\algorithm\b_tree\b_tree\b_tree_function.cpp(13): error C2244: “B_Tree<T>::B_Tree”: 无法将函数定义与现有的声明匹配
+                 f:\张建威\algorithm\b_tree\b_tree\b_tree.h(22) : 参见“B_Tree<T>::B_Tree”的声明
+                 定义
+                 'B_Tree::B_Tree(void)'
+                 现有声明
+                 'B_Tree<T>::B_Tree(void)'
+     1>f:\张建威\algorithm\b_tree\b_tree\b_tree_function.cpp(22): error C2244: “B_Tree<T>::b_tree_create”: 无法将函数定义与现有的声明匹配
+                 f:\张建威\algorithm\b_tree\b_tree\b_tree.h(23) : 参见“B_Tree<T>::b_tree_create”的声明
+                 定义
+                 'void B_Tree::b_tree_create(void)'
+                 现有声明
+                 'void B_Tree<T>::b_tree_create(void)'
+     1>f:\张建威\algorithm\b_tree\b_tree\b_tree_function.cpp(33): error C2244: “B_Tree<T>::allocate_node”: 无法将函数定义与现有的声明匹配
+                 f:\张建威\algorithm\b_tree\b_tree\b_tree.h(17) : 参见“B_Tree<T>::allocate_node”的声明
+                 定义
+                 'Node *B_Tree::allocate_node(void)'
+                 现有声明
+                 'Node<T> *B_Tree<T>::allocate_node(void)'
+     1>f:\张建威\algorithm\b_tree\b_tree\b_tree_function.cpp(40): error C2244: “B_Tree<T>::disk_write”: 无法将函数定义与现有的声明匹配
+                 f:\张建威\algorithm\b_tree\b_tree\b_tree.h(18) : 参见“B_Tree<T>::disk_write”的声明
+                 定义
+                 'void B_Tree::disk_write(Node *)'
+                 现有声明
+                 'void B_Tree<T>::disk_write(Node<T> *)'
+     1>f:\张建威\algorithm\b_tree\b_tree\b_tree_function.cpp(47): error C2244: “B_Tree<T>::disk_read”: 无法将函数定义与现有的声明匹配
+                 f:\张建威\algorithm\b_tree\b_tree\b_tree.h(19) : 参见“B_Tree<T>::disk_read”的声明
+                 定义
+                 'void B_Tree::disk_read(Node *)'
+                 现有声明
+                 'void B_Tree<T>::disk_read(Node<T> *)'
+     1>f:\张建威\algorithm\b_tree\b_tree\b_tree_function.cpp(55): error C2244: “B_Tree<T>::view_statistics”: 无法将函数定义与现有的声明匹配
+                 f:\张建威\algorithm\b_tree\b_tree\b_tree.h(24) : 参见“B_Tree<T>::view_statistics”的声明
+                 定义
+                 'void B_Tree::view_statistics(void)'
+                 现有声明
+                 'void B_Tree<T>::view_statistics(void)'
+     1>f:\张建威\algorithm\b_tree\b_tree\b_tree_function.cpp(68): error C2244: “B_Tree<T>::recursive_clear”: 无法将函数定义与现有的声明匹配
+                 f:\张建威\algorithm\b_tree\b_tree\b_tree.h(25) : 参见“B_Tree<T>::recursive_clear”的声明
+                 定义
+                 'void B_Tree::recursive_clear(Node *)'
+                 现有声明
+                 'void B_Tree<T>::recursive_clear(Node<T> *)'
+     1>f:\张建威\algorithm\b_tree\b_tree\b_tree_function.cpp(74): error C2244: “B_Tree<T>::~B_Tree”: 无法将函数定义与现有的声明匹配
+                 f:\张建威\algorithm\b_tree\b_tree\b_tree.h(26) : 参见“B_Tree<T>::~B_Tree”的声明
+                 定义
+                 'B_Tree::~B_Tree(void)'
+                 现有声明
+                 'B_Tree<T>::~B_Tree(void)'
+     1>f:\张建威\algorithm\b_tree\b_tree\b_tree_function.cpp(103): error C2244: “B_Tree<T>::print_tree”: 无法将函数定义与现有的声明匹配
+                 f:\张建威\algorithm\b_tree\b_tree\b_tree.h(27) : 参见“B_Tree<T>::print_tree”的声明
+                 定义
+                 'void B_Tree::print_tree(Node *)'
+                 现有声明
+                 'void B_Tree<T>::print_tree(Node<T> *)'
+     1>f:\张建威\algorithm\b_tree\b_tree\b_tree_function.cpp(118): error C2244: “B_Tree<T>::b_tree_maximum”: 无法将函数定义与现有的声明匹配
+                 f:\张建威\algorithm\b_tree\b_tree\b_tree.h(36) : 参见“B_Tree<T>::b_tree_maximum”的声明
+                 定义
+                 'T B_Tree::b_tree_maximum(Node *)'
+                 现有声明
+                 'T B_Tree<T>::b_tree_maximum(Node<T> *)'
+     1>f:\张建威\algorithm\b_tree\b_tree\b_tree_function.cpp(133): error C2244: “B_Tree<T>::b_tree_minimum”: 无法将函数定义与现有的声明匹配
+                 f:\张建威\algorithm\b_tree\b_tree\b_tree.h(37) : 参见“B_Tree<T>::b_tree_minimum”的声明
+                 定义
+                 'T B_Tree::b_tree_minimum(Node *)'
+                 现有声明
+                 'T B_Tree<T>::b_tree_minimum(Node<T> *)'
+     1>f:\张建威\algorithm\b_tree\b_tree\b_tree_function.cpp(137): error C2244: “B_Tree<T>::b_tree_predecessor”: 无法将函数定义与现有的声明匹配
+                 f:\张建威\algorithm\b_tree\b_tree\b_tree.h(38) : 参见“B_Tree<T>::b_tree_predecessor”的声明
+                 定义
+                 'T B_Tree::b_tree_predecessor(Node *,int)'
+                 现有声明
+                 'T B_Tree<T>::b_tree_predecessor(Node<T> *,int)'
+     1>已完成生成项目“F:\张建威\algorithm\B_Tree\B_Tree\B_Tree.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.86

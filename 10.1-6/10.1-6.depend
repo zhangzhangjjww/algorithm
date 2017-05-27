@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1446667744 source:f:\张建威\algorithm\10.1-6\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1480495293 source:f:\张建威\algorithm\10.1-6\stack.cpp
+	"Stack.h"
+	<stdexcept>
+	<iostream>
+
+1480647667 f:\张建威\algorithm\10.1-6\stack.h
+
+1480647562 source:f:\张建威\algorithm\10.1-6\10.1-6.cpp
+	<iostream>
+	"Stack.h"
+	"Stack.cpp"
+	"Queue2.h"
+
+1480647667 f:\张建威\algorithm\10.1-6\stack.cpp
+	"Stack.h"
+	<stdexcept>
+	<iostream>
+
+1480647667 f:\张建威\algorithm\10.1-6\queue2.h
+	"Stack.h"
+

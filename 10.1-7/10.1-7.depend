@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1446667744 source:f:\张建威\algorithm\10.1-7\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1480685849 source:f:\张建威\algorithm\10.1-7\queue.cpp
+	"queue.h"
+	<iostream>
+	<stdexcept>
+
+1480684372 f:\张建威\algorithm\10.1-7\queue.h
+
+1480685849 source:f:\张建威\algorithm\10.1-7\10.1-7.cpp
+	<iostream>
+	"Queue.cpp"
+	"queue.h"
+	"Stack2.h"
+
+1480685849 f:\张建威\algorithm\10.1-7\queue.cpp
+	"queue.h"
+	<iostream>
+	<stdexcept>
+
+1480685877 f:\张建威\algorithm\10.1-7\stack2.h
+	"queue.h"
+

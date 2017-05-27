@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1446667744 source:f:\张建威\algorithm\10.2-5\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1480935492 source:f:\张建威\algorithm\10.2-5\10.2-5.cpp
+	"diction.h"
+
+1480936235 f:\张建威\algorithm\10.2-5\diction.h
+	<iostream>
+	<string>
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1446667744 source:f:\张建威\algorithm\dijkstra\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1495249851 source:f:\张建威\algorithm\dijkstra\test.cpp
+	"piror_queue.h"
+	"Dijkstra.h"
+	<fstream>
+
+1495262371 f:\张建威\algorithm\dijkstra\piror_queue.h
+	<vector>
+	<iostream>
+	<limits>
+
+1495251072 f:\张建威\algorithm\dijkstra\dijkstra.h
+	<iostream>
+	<vector>
+	"piror_queue.h"
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1487578657 source:f:\张建威\algorithm\b-tree\b_tree_function.cpp
+	<iostream>
+	"b_tree.h"
+	<queue>
+
+1487581834 f:\张建威\algorithm\b-tree\b_tree.h
+
+1446667744 source:f:\张建威\algorithm\b-tree\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1487581559 source:f:\张建威\algorithm\b-tree\b_tree.cpp
+	<iostream>
+	"b_tree.h"
+	<queue>
+

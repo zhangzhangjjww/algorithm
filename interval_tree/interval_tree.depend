@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1446667744 source:f:\张建威\algorithm\interval_tree\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1484708845 source:f:\张建威\algorithm\interval_tree\test.cpp
+	<iostream>
+	"interval_tree.h"
+	"interval_tree.cpp"
+
+1484708725 f:\张建威\algorithm\interval_tree\interval_tree.h
+
+1484708967 f:\张建威\algorithm\interval_tree\interval_tree.cpp
+	<iostream>
+	"interval_tree.h"
+
+1484708967 source:f:\张建威\algorithm\interval_tree\interval_tree.cpp
+	<iostream>
+	"interval_tree.h"
+
+1484627430 source:f:\张建威\algorithm\interval_tree\max.cpp
+

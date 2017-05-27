@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1446667744 source:f:\张建威\algorithm\21-2\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1491902132 source:f:\张建威\algorithm\21-2\link.cpp
+	<iostream>
+	<limits>
+	<cstdlib>
+	<fstream>
+

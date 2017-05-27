@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1480582242 source:f:\张建威\algorithm\10.1-5\10.1-5.cpp
+	<iostream>
+	"Deque.h"
+	"Deque.cpp"
+
+1480582064 f:\张建威\algorithm\10.1-5\deque.h
+
+1480582408 f:\张建威\algorithm\10.1-5\deque.cpp
+	"Deque.h"
+	<iostream>
+	<stdexcept>
+
+1480582096 source:f:\张建威\algorithm\10.1-5\deque.cpp
+	"Deque.h"
+	<iostream>
+	<stdexcept>
+
+1446667744 source:f:\张建威\algorithm\10.1-5\main.cpp
+	<tchar.h>
+	<windows.h>
+

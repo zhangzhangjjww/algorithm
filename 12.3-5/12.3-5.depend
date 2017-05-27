@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1482824229 source:f:\张建威\algorithm\12.3-5\12.3-5.cpp
+	<iostream>
+	"tree.h"
+	"tree.cpp"
+
+1482825186 f:\张建威\algorithm\12.3-5\tree.h
+
+1482825192 f:\张建威\algorithm\12.3-5\tree.cpp
+	<iostream>
+	<cstdlib>
+	"tree.h"
+
+1446667744 source:f:\张建威\algorithm\12.3-5\main.cpp
+	<tchar.h>
+	<windows.h>
+
