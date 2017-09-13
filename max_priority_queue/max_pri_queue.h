@@ -17,6 +17,8 @@ public:
     }
     Pointer& operator=(Pointer& pp)
     {
+        if(pp==*this) {
+            return *this;
         delete [] p;
         sz=pp.sz;
         p=new int[sz];
